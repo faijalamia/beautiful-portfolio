@@ -260,6 +260,11 @@
     border-radius: 5px;
     border: none;
 }
+.ph{
+    font-size: 16px;
+    color: #757575;
+    padding:5px 10px;
+}
 .fr button{
     width: 150px;
     height: 65px;
